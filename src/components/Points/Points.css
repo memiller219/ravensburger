@@ -1,0 +1,9 @@
+.points {
+    color: green;
+    margin-right: 10px;
+    font-size: 2rem;
+}
+
+a {
+    text-decoration: none !important;
+}

@@ -1,0 +1,40 @@
+.rec-arrow-left {
+  color: orange !important;
+}
+
+.search {
+  color: blue;
+  font-size: 1.8em;
+}
+
+.search:hover {
+  cursor: pointer;
+  color: rgb(72, 97, 209);
+  font-weight: bold;
+}
+
+.typePuzzle {
+  color: black;
+  font-size: 0.8em;
+}
+
+.typePuzzle:hover {
+  text-decoration: underline !important;
+}
+
+.card {
+  height: auto;
+  padding: 0 10px 0 10px;
+}
+
+@media only screen and (max-width: 600px) {
+  .search {
+    margin-left: 45%;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .search {
+    float: right;
+  }
+}
