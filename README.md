@@ -1,6 +1,6 @@
 # RAVENSBURGER INTERVIEW ASSESSMENT
 
-Hello all!  Thank you for taking the time to review this assessment.  I had a fun and enjoyable time working on this.  I hope I exceed or at lease meet the expectations for this position.  I am eagerly looking forward to hearing back from you.  
+Hello all!  Thank you for taking the time to review this assessment.  I had a fun and enjoyable time working on this.  I hope I exceed or at least meet the expectations for this position.  I am eagerly looking forward to hearing back from you.  
 
 ## OPTIMIZATIONS I WOULD INCORPORATE WITH MORE TIME
 
